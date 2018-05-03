@@ -1,0 +1,10 @@
+C:\Users\César\Documents\CNPJ\CNPJ\bin\Debug\netcoreapp2.0\CNPJ.deps.json
+C:\Users\César\Documents\CNPJ\CNPJ\bin\Debug\netcoreapp2.0\CNPJ.runtimeconfig.json
+C:\Users\César\Documents\CNPJ\CNPJ\bin\Debug\netcoreapp2.0\CNPJ.runtimeconfig.dev.json
+C:\Users\César\Documents\CNPJ\CNPJ\bin\Debug\netcoreapp2.0\CNPJ.dll
+C:\Users\César\Documents\CNPJ\CNPJ\bin\Debug\netcoreapp2.0\CNPJ.pdb
+C:\Users\César\Documents\CNPJ\CNPJ\obj\Debug\netcoreapp2.0\CNPJ.csproj.CoreCompileInputs.cache
+C:\Users\César\Documents\CNPJ\CNPJ\obj\Debug\netcoreapp2.0\CNPJ.AssemblyInfoInputs.cache
+C:\Users\César\Documents\CNPJ\CNPJ\obj\Debug\netcoreapp2.0\CNPJ.AssemblyInfo.cs
+C:\Users\César\Documents\CNPJ\CNPJ\obj\Debug\netcoreapp2.0\CNPJ.dll
+C:\Users\César\Documents\CNPJ\CNPJ\obj\Debug\netcoreapp2.0\CNPJ.pdb
